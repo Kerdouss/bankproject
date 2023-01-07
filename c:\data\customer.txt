@@ -1,0 +1,10 @@
+
+IndividualCustomer{ id = 3  name = TOM email = tom@abc.com birthDate =1-1-2000}
+
+BusinessCustomer{ id=4 name =Company email = company@abc.com fax = 100100100}IndividualCustomer{ id = 5  name = MATT email = 
+
+matt@abc.com birthDate =1-2-2001}
+
+BusinessCustomer{ id=10 name =Company email = company@abc.com fax = 100100}
+
+IndividualCustomer{ id = 7  name = JACK email = jack@abc.com birthDate =1-5-2000}

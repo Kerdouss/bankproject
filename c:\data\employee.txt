@@ -1,0 +1,2 @@
+PTEmployee{ hoursRate = 25.9}
+FTEmployee{ salary = 700.99 name = TIM}
